@@ -1,0 +1,15 @@
+1. Briefly describe one way how data travels on the internet.
+
+Data travels in "packages," using the IP addresses of devices and the URLs of webpages to determine where to send the requested information. 
+
+2. What is the relationship between an IP address and the DNS?
+
+The IP address works as a sort of mailing address for each different device or website which uses the Internet. The DNS (Domain Name Systems) associates IP addresses with code words- like the names of websites- to find the correct websites when they are requested.
+
+3. What is a cookie?
+
+"Cookies" function as a sort of I.D. card to allow a user to access a protected website more easily/quickly by recording their password and username ahead of time.
+
+4. List the the three basic parts of a URL.
+
+Protocol, Domain Name, Path
