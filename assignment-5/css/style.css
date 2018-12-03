@@ -1,0 +1,17 @@
+*{
+  font-family: Forte;
+  background-color: #DAA520
+  padding: 5px;
+}
+body {
+/* I like the Forte font a lot for this- I know it's not strickly 70s, but I think it fits the look pretty well, especially with the colors I want. */
+  font-family: Forte;
+  background-color: #ADFF2F
+}
+#page-background {
+  float: center;
+}
+h1 {
+  text-align: center;
+  color: #8A2BE2;
+}
