@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'PrinceValiant';
+  src: url('https://www.dafont.com/prince-valiant.font') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+@font-face {
+  font-family: 'GeosansLight';
+  src: url('https://www.dafont.com/geo-sans-light.font') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+@font-face {
+  font-family: 'GeosansLight-Oblique';
+  src: url('https://www.dafont.com/geo-sans-light.font') format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}

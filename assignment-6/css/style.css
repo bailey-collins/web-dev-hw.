@@ -1,0 +1,40 @@
+*{
+  background-color: #DAA520
+  padding: 5px;
+}
+
+h1 {
+  color: #A52A2A;
+  font-family: 'PrinceValiant', 'TimesNewRoman', serif;
+  font-size: 20pt;
+}
+
+h2 {
+  color: #A52A2A;
+  font-family: 'PrinceValiant', 'TimesNewRoman', serif;
+  font-size: 16pt;
+}
+
+p {
+  color: #B22222;
+  font-family: 'GeosansLight', 'GeosansLight-Oblique', 'Trecubet', sans-serif;
+  font-size: 12pt;
+  line-height: normal;
+}
+
+p::first-letter {
+  font-size: 16pt;
+}
+
+a:link {
+  color: #000000
+}
+
+a:hover {
+  color: #A52A2A
+  font-style: italic;
+}
+
+a:active {
+  color: #A9A9A9
+}
