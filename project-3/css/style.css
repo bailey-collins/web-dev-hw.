@@ -1,0 +1,7 @@
+.photo {
+  width: 100%;
+  min-width: 416p;
+  max-width: 1664p;
+  height: 50%;
+  overflow: scroll;
+}
